@@ -17,6 +17,12 @@ public class Service {
        //AC 1
         put("red", "green");
         put("green", "red");
+
+        //AC2 Orange  → Blue
+        put("Orange", "Blue");
+        put("Blue", "Orange");
+
+
     }};
 
 }
