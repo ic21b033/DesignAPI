@@ -22,6 +22,10 @@ public class Service {
         put("Orange", "Blue");
         put("Blue", "Orange");
 
+        //AC3 Yellow  → Purple
+        put("Yellow", "Purple");
+        put("Purple", "Yellow");
+
 
     }};
 
